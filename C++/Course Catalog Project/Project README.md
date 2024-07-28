@@ -4,6 +4,7 @@ This program takes a list of courses as input, sorts the list using a quick-sort
 
 # Skills Showcased:
 C++ proficiency
+Visual Studio
 Understanding of available sorting and searching algorithms
 Run-time analysis
 Using structures for storage
