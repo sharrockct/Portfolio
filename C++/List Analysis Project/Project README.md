@@ -4,6 +4,7 @@ This project integrates C++ and Python to analyze an input list of items and all
 # Skills Showcased:
 C++ proficiency
 Python proficiency
+Visual Studio
 File reading
 Input verification
 Exception catching and handling
