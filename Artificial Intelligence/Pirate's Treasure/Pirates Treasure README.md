@@ -4,6 +4,7 @@ This program trains and AI to play the game Pirate's Treasure, a game where two 
 # Skills Showcased
 Python proficiency
 Keras proficiency
+Experience with JupyterNotebook
 Understanding of AI and machine learning concepts
-Deep learning and artificial neural networks
+Deep learning and artificial neural networks (ANNs)
 Q-learning algorithms
